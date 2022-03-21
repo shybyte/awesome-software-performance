@@ -34,10 +34,16 @@
 
 ## Performance Testing
   * https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe
+  * https://www.youtube.com/watch?v=4wBXvVEVYKI - Introduction to Performance Engineering
 
 ## Web
   * https://changelog.com/jsparty/216 - Enabling performance-centric engineering orgs
   * https://www.smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/
+
+### Talks
+
+  * https://www.youtube.com/watch?v=YJGCZCaIZkQ - Speed at Scale: Web Performance Tips and Tricks from the Trenches (Google I/O ’19)
+  * https://www.youtube.com/watch?v=k-A2VfuUROg - Rendering on the Web: Performance Implications of Application Architecture (Google I/O ’19)
 
 ### Measuring
   * https://developer.mozilla.org/en-US/docs/Web/API/Performance 
@@ -53,7 +59,7 @@
 
   * https://github.com/GoogleChromeLabs/proxx
   * https://surma.dev/things/webgpu/
-  
+
 ### WASM - Web Assembly
 
   * https://wasmbyexample.dev/home.en-us.html
@@ -89,6 +95,7 @@
 ## Rust
 
   * https://dev.to/cloudx/building-optimized-binaries-with-rust-k8b
+  * https://www.zero2prod.com/index.html?country=Germany&discount_code=VAT20
 
 ## Zig
   * https://www.gingerbill.org/article/2019/05/13/a-reply-to-the-road-to-zig/
