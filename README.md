@@ -2,6 +2,9 @@
 
   * https://github.com/sirupsen/napkin-math
 
+## Talks
+  * https://www.youtube.com/watch?v=fDGWWpHlzvw - Designing for Performance • Martin Thompson • GOTO 2015
+
 ## Green Software Engineering
   * https://principles.green/ - Principles of Green Software Engineering
 
@@ -48,9 +51,9 @@
 
 ## Web-Frontend
 
-https://github.com/GoogleChromeLabs/proxx
-https://surma.dev/things/webgpu/
-
+  * https://github.com/GoogleChromeLabs/proxx
+  * https://surma.dev/things/webgpu/
+  
 ### WASM - Web Assembly
 
   * https://wasmbyexample.dev/home.en-us.html
@@ -112,3 +115,7 @@ https://surma.dev/things/webgpu/
   * https://github.com/hbish/awesome-performance - A collection of videos, talks and tools about performance engineering and testing.
   * https://github.com/mfleming/performance-resources
 
+## Slightly related talks
+
+  * https://www.youtube.com/watch?v=S4LzzuMTqjs - Engineering You • Martin Thompson • GOTO 2017
+  * https://www.youtube.com/results?search_query=Martin+Thompson
