@@ -69,13 +69,12 @@
   * https://surma.dev/things/js-to-asc/ - Is WebAssembly magic performance pixie dust?
 
 ## Low level optimizations
-  * https://parallel-rust-cpp.github.io/
-  * https://github.com/dendibakh/perf-ninja
-  * https://ppc.cs.aalto.fi/
+  * https://en.algorithmica.org/hpc/ - Algorithms for Modern Hardware
+  * https://ppc.cs.aalto.fi/ - Programming Parallel Computers
+  * https://parallel-rust-cpp.github.io/ - Programming Parallel Computers in Rust
   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/
+  * https://github.com/dendibakh/perf-ninja
   * https://cp-algorithms.com/
-  * https://en.algorithmica.org/hpc/
-  * https://en.algorithmica.org/hpc/data-structures/s-tree/
   * https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures
 
 
