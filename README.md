@@ -7,6 +7,8 @@
 
 ## Green Software Engineering
   * https://principles.green/ - Principles of Green Software Engineering
+  * https://cloud.google.com/carbon-footprint
+  * https://cloud.google.com/blog/topics/sustainability
 
 ## Databases
 
