@@ -65,8 +65,6 @@ Special annotations:
   * https://developer.mozilla.org/en-US/docs/Web/CSS/will-change will-change: transform
   * Set will-change on mouseenter to 'transform' and back to 'auto' on transitionend or mouseleave
 
-
-
 More tips
  * Make sure to use production mode / build 
  * Simple HTML
@@ -74,3 +72,28 @@ More tips
  * Set a simple class to change style 
  * Changing only opacity or CSS transform requires no repaint 
  
+
+### Load Performance
+
+* Cache Control Headers (https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control)
+  * no-store
+  * no-cache
+  * max-age
+  * immutable
+  * s-maxage (for CDNs)
+* Content-Addressable-Storage: file contains hash of content
+* Service Worker
+* Lazy-Loading and Pre-Loading
+* web pack bundle analyzer or https://www.npmjs.com/package/vite-bundle-visualizer
+* import transform from 'lodash/transform'
+* https://github.com/Geocld/vite-plugin-importus
+* https://stackoverflow.com/questions/67084600/how-to-config-lodash-tree-shaking-in-vite
+* Load components dynamically, dynamic imports
+* Some best-practises in HTTP/1 are not-so-good in Http/2
+  * (e.b. concatenating files)
+  * inlining resources (like images)
+
+
+*** Build Tools
+  * https://github.com/purifycss/purifycss Still useful?
+  * 
