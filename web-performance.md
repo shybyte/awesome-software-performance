@@ -96,4 +96,22 @@ More tips
 
 *** Build Tools
   * https://github.com/purifycss/purifycss Still useful?
-  * 
+
+
+## Learnings from https://frontendmasters.com/courses/web-perf
+
+* https://github.com/toddhgardner/perf-training-website
+* https://drive.google.com/drive/folders/13sdKqO8O2L1yr6th9HgPwpncZwTpEPGl
+
+Perceived performance depends on
+  * our expectation
+  * what we can do/look at something while waiting
+
+Psychology of waiting
+
+1. People want to start
+2. Bored waits feel slower
+3. Anxious times feels slower than relaxed time
+4. Unexplained wait times feels slower
+6. Uncertain wait times feels slower
+7. People will wait for value
